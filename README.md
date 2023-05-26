@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 😄 My name is **jamdodot**,  a master's **student**.
+- 🔭 I'm currently learning **Java-Backend**
+- 📫 How to reach me: mail to jamdodot@gmail.com
