@@ -23,3 +23,6 @@ Here are some ideas to get you started:
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jamdodot/jamdodot/output/github-contribution-grid-snake.svg">
   <img  alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/jamdodot/jamdodot/output/github-contribution-grid-snake.svg">
 </picture>          
+
+[![Jamdodot's GitHub stats](https://github-readme-stats.vercel.app/api?username=jamdodot&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+![Jamdodot's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jamdodot&layout=compact&hide_border=true&langs_count=10)
