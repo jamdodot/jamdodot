@@ -18,8 +18,4 @@ Here are some ideas to get you started:
 - 🔭 I'm currently learning **Java-Backend**
 - 📫 How to reach me: mail to jamdodot@gmail.com
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jamdodot/jamdodot/main/assets/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jamdodot/jamdodot/main/assets/github-contribution-grid-snake.svg">
-  <img  alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/jamdodot/jamdodot/main/assets/github-contribution-grid-snake.svg">
-</picture>
+![](https://raw.githubusercontent.com/jamdodot/jamdodot/main/assets/github-contribution-grid-snake.svg)              
